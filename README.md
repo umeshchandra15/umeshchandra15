@@ -48,14 +48,14 @@
 ## 🤝 Connect & Collaborate
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=true)](https://www.linkedin.com/in/umeshchandra15/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=true)](https://www.linkedin.com/in/umeshChandrakanti)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umeshchandrekanti1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umeshchandra15)
 
 </div>
 
 ## 📈 Contribution Graph
-[![Umesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umeshchandra15&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Umesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umeshchandra15&theme=radical&hide_border=true&bg_color=0D1127)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   
@@ -64,13 +64,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
-<div align="center">
-  <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" height="100" alt="Azure Badge"/>
-</div>
-//hello
 </div>
 
 ---
